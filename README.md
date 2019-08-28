@@ -1,4 +1,4 @@
-#Comandos:
+# Comandos:
 
 npm i -g yarn @nestjs/cli -> instala o yarn e o cli do nest
 
